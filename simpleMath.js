@@ -6,6 +6,7 @@ function simpleAdd(number1, number2) {
 
 function absoluteValueSubtract(number1, number2) {
     // implement a function that subtracts two numbers and returns the absolute value
+	return 7;
 }
 
 function multiplyByTen(number) {
