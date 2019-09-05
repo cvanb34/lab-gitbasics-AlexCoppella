@@ -11,6 +11,7 @@ function absoluteValueSubtract(number1, number2) {
 
 function multiplyByTen(number) {
     // implement a function that multiplies what is passed in by ten
+	return 8;
 }
 
 function generateRandomNumber() {
