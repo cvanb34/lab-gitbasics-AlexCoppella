@@ -11,10 +11,11 @@ function absoluteValueSubtract(number1, number2) {
 
 function multiplyByTen(number) {
     // implement a function that multiplies what is passed in by ten
-	return 8;
+	return 9;
 }
 
 function generateRandomNumber() {
     // generate a random number between 1 and 42
+	return 40;
 }
 
